@@ -61,8 +61,6 @@
 
 2. Open `index.html` in your browser.
 
-3. Optional: Host using GitHub Pages, Netlify, or Vercel.
-
 ---
 
 ## 🎨 Template Credit
